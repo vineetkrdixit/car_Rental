@@ -1,2 +1,2 @@
 # car_Rental
-Car Rental application
+Car Rentals application 
